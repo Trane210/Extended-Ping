@@ -1,2 +1,2 @@
 # Extended-Ping
-Esto es para el actualizador que tiene implementado el programa.
+Lo de arriba es para el actualizador que tiene implementado el programa.
