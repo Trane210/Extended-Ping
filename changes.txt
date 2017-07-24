@@ -1,12 +1,30 @@
++ para adiciones, - para arreglos
+
 1.8.9:
 
 A partir de ahora, se verá este mensaje al actualizar, con el contenido añadido, o arreglado.
 
 Cambios (tendrá este formato):
 
-- Ayy
++ Ayy
 
-- Lmao
++ Lmao
  - Lmao es muy lmao
 
 - yee boiiiiii
+
+
+1.8.8:
+
+Pequeños arreglos y adiciones al overlay.
+
+Cambios:
+
++ Nueva función añadida: Solo mostrar pings mayores que lo que se establezca en el Aviso de Ping.
+
++ Al hacer doble click en el overlay, se mostrará la ventana principal de la aplicación.
+
++ Al hacer click derecho, se mostrará un menú conteniendo la nueva función y un boton para cerrar
+la aplicación.
+
+- Los sonidos en la versión anterior no estaban en el jar.
