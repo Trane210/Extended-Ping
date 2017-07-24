@@ -1,6 +1,8 @@
 1.8.9:
+
 A partir de ahora, se verá este mensaje al actualizar, con el contenido añadido, o arreglado.
-Cambios (tendría este formato):
+
+Cambios (tendrá este formato):
 
 - Ayy
 
