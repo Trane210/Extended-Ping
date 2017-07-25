@@ -1,5 +1,22 @@
 + para adiciones, - para arreglos
 
+1.9.0:
+
+Hola, adiciones.
+
+Cambios:
+
++ Nueva función para el actualizador, la cual comprueba cada 10 minutos si hay alguna versión disponible sin cerrar la aplicación.
+
++ Botón para ver las notas de las versiones.
+
++ Botón en el menu del overlay para deshabilitar el mismo.
+
+- El botón de Aviso de Ping no se mostraba como es debido.
+
+- Los elementos de la aplicación han sido cambiados de sitio para mas comodidad.
+
+
 1.8.9:
 
 A partir de ahora, se verá este mensaje al actualizar, con el contenido añadido, o arreglado.
@@ -24,7 +41,6 @@ Cambios:
 
 + Al hacer doble click en el overlay, se mostrará la ventana principal de la aplicación.
 
-+ Al hacer click derecho, se mostrará un menú conteniendo la nueva función y un boton para cerrar
-la aplicación.
++ Al hacer click derecho, se mostrará un menú conteniendo la nueva función y un boton para cerrar la aplicación.
 
 - Los sonidos en la versión anterior no estaban en el jar.
