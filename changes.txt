@@ -1,4 +1,21 @@
 + para adiciones, - para arreglos
+Si hay una nueva versión aquí y no se puede actualizar, es que no está aun implementada.
+
+-------------------------------
+
+1.9.1:
+
+Pls no mas pingazo.
+
+Cambios:
+
++ Cambio completo al sistema de envio por HTTP, con colores y cosas guays.
+
+- Arreglado un problema que al intentar ver, por ejemplo, un ping alto anterior en la aplicación, esta siempre te enviaba al ultimo ping.
+
+- Si se le daba al botón de las notas de versión repetidas veces, salía el texto de las notas una y otra vez repetidas.
+
+-------------------------------
 
 1.9.0:
 
@@ -16,6 +33,7 @@ Cambios:
 
 - Los elementos de la aplicación han sido cambiados de sitio para mas comodidad.
 
+-------------------------------
 
 1.8.9:
 
@@ -30,6 +48,7 @@ Cambios (tendrá este formato):
 
 - yee boiiiiii
 
+-------------------------------
 
 1.8.8:
 
