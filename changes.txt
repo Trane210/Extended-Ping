@@ -4,12 +4,12 @@ Si hay una nueva versión aquí y no se puede actualizar, es que no está aun imple
 -------------------------------
 
 1.9.1:
-
 Pls no mas pingazo.
 
 Cambios:
 
 + Cambio completo al sistema de envio por HTTP, con colores y cosas guays.
+  - Arreglado algunos problemillas de rendimiento.
 
 - Arreglado un problema que al intentar ver, por ejemplo, un ping alto anterior en la aplicación, esta siempre te enviaba al ultimo ping.
 
@@ -18,7 +18,6 @@ Cambios:
 -------------------------------
 
 1.9.0:
-
 Hola, adiciones.
 
 Cambios:
@@ -36,7 +35,6 @@ Cambios:
 -------------------------------
 
 1.8.9:
-
 A partir de ahora, se verá este mensaje al actualizar, con el contenido añadido, o arreglado.
 
 Cambios (tendrá este formato):
@@ -51,7 +49,6 @@ Cambios (tendrá este formato):
 -------------------------------
 
 1.8.8:
-
 Pequeños arreglos y adiciones al overlay.
 
 Cambios:
